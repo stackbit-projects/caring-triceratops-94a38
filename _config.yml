@@ -1,0 +1,24 @@
+title: Link
+description: Just 4 Fun.
+keywords: 'blog,css,html,php'
+author: Link
+hide: (つェ⊂)我藏好啦
+show: ´∇｀ 呀被发现啦~
+baseurl: ''
+url: ''
+buildtime: '1514736000'
+PJAX: true
+paginate: 8
+paginate_path: 'page:num'
+background: 'https://api.dujin.org/bing/1920.php'
+theme_color: 546E7A
+hydrogen-blog:
+  date_format: '%b %-d, %Y'
+MathJax: false
+plugins:
+  - jemoji
+image: null
+twitter:
+  username: null
+facebook:
+  app_id: null
